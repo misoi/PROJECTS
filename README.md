@@ -25,9 +25,11 @@ It is a project where students can apply for the cdf bursary online
 
 **Tools**
 flask
+
 foundation 
 
 **Contributors**
+
 Chepkemoi cynthia
  
  
@@ -51,11 +53,15 @@ Links:
  5. contact
 
 **Tools**
+
 Foundation 6
+
 sound cloud api
 
 **Contributors**
+
  chepkemoi cynthia
+ 
  erick munene
  
  
@@ -78,11 +84,14 @@ links
 4. Reserve
 5. 
 **Tools**
+
 Foundation 6
+
 flask
 
 
 **Contributors**
+
  Chepkemoi cynthia
 
 
@@ -107,8 +116,10 @@ A one pager website of a women dress design agency
 
 
 **Tools**
+
  foundation 6
 
-**Contributors**
+**Contributors
+
  chepkemoi cynthia
  
