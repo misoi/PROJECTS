@@ -37,7 +37,7 @@ Chepkemoi cynthia
 _________________
 
 **Repo Link**
- https://github.com/BethMwangi/254_kiddies
+ https://github.com/misoi/studio
 
 **Project Details**
 It is a website where artist can book for recording appointment
