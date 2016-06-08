@@ -7,7 +7,7 @@ _________________
 
 **Repo Link**
 
- https://github.com/misoi/cdf-project
+https://github.com/misoi/cdf-project
 
 **Project Details**
 It is a project where students can apply for the cdf bursary online
