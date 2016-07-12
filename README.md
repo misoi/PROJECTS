@@ -65,14 +65,14 @@ sound cloud api
  erick munene
  
  
-# Easylite website
+# penbo
 _________________
 
 **Repo Link**
  https://github.com
 
 **Project Details**
-it is a website where travellers can book for a car seat online prior to the travelling date
+it is a branding website
 
 **Features**
 Four pager website
@@ -81,13 +81,12 @@ links
 1. Home
 2. About
 3. contact
-4. Reserve
+4. portfolio
 5. 
 **Tools**
 
 Foundation 6
 
-flask
 
 
 **Contributors**
